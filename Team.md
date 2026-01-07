@@ -6,7 +6,7 @@ Please enter your `first-name` in the list below:
 01. Rémi H. (@klagarge)
 02. Emanuel
 03. B. G.
-04. B. S.
+04. Samuel (@SamuelBridevaux)
 05. B. J.
 06. C. Nathan
 07. D. G.

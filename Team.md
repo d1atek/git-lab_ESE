@@ -2,18 +2,18 @@
 
 Please enter your `first-name` in the list below:
 
-00. Christopher M. (@metc)
-01. Rémi H. (@klagarge)
-02. A. E.
-03. B. G.
-04. B. S.
-05. B. J.
-06. C. N.
-07. D. G.
-08. D. Y.
-09. F. D.
+0. Christopher M. (@metc)
+1. Rémi H. (@klagarge)
+2. A. E.
+3. B. G.
+4. B. S.
+5. B. J.
+6. C. N.
+7. D. G.
+8. D. Y.
+9. F. D.
 10. G. B.
 11. G. P.
 12. M. B.
-13. U. J.
+13. U. Jessica
 14. V. J.

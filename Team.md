@@ -16,6 +16,6 @@ Please enter your `first-name` in the list below:
 09. Diogo F. (diogodafebre)
 10. Gasser Basile
 11. G. P.
-12. M. B.
+12. M. Bryan
 13. U. Jessica
 14. V. J.

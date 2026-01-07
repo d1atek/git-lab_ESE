@@ -11,7 +11,7 @@ Please enter your `first-name` in the list below:
 04. B. S.
 05. B. J.
 06. C. Nathan
-07. D. G.
+07. Gabriel (@Gabs2Sou)
 08. D. Y.
 09. Diogo F. (diogodafebre)
 10. Gasser Basile

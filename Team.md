@@ -5,6 +5,8 @@ Please enter your `first-name` in the list below:
 00. Christopher M. (@metc)
 01. Rémi H. (@klagarge)
 02. Emanuel
+03. B. G.
+04. Samuel (@SamuelBridevaux)
 03. B. Gregory (@District25)
 04. B. S.
 05. B. J.

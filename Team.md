@@ -7,6 +7,8 @@ Please enter your `first-name` in the list below:
 02. Emanuel
 03. B. G.
 04. Samuel (@SamuelBridevaux)
+03. B. Gregory (@District25)
+04. B. S.
 05. B. J.
 06. C. Nathan
 07. D. G.
@@ -15,5 +17,5 @@ Please enter your `first-name` in the list below:
 10. G. B.
 11. G. P.
 12. M. B.
-13. U. J.
+13. U. Jessica
 14. V. J.

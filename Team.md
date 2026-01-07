@@ -8,7 +8,7 @@ Please enter your `first-name` in the list below:
 03. B. G.
 04. B. S.
 05. B. J.
-06. C. N.
+06. C. Nathan
 07. D. G.
 08. D. Y.
 09. F. D.

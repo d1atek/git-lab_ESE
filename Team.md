@@ -4,7 +4,7 @@ Please enter your `first-name` in the list below:
 
 00. Christopher M. (@metc)
 01. Rémi H. (@klagarge)
-02. A. E.
+02. Emanuel
 03. B. G.
 04. B. S.
 05. B. J.
